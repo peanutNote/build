@@ -71,7 +71,6 @@ config/boards/mekotronics-r58-minipc.csc		@monkaBlyat
 config/boards/mekotronics-r58x-4g.csc		@monkaBlyat
 config/boards/mekotronics-r58x.csc		@monkaBlyat
 config/boards/mixtile-blade3.csc		@rpardini
-config/boards/nanopc-cm3588-nas.csc		@ColorfulRhino
 config/boards/nanopct6-lts.conf		@SuperKali @Tonymac32
 config/boards/nanopct6.conf		@SuperKali @Tonymac32
 config/boards/nanopi-m6.conf		@efectn
